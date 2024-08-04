@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhopage=self.webpackChunkhopage||[]).push([[3840],{1674:e=>{e.exports=JSON.parse('{"label":"design","permalink":"/blog/tags/design","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

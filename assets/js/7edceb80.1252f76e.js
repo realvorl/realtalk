@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhopage=self.webpackChunkhopage||[]).push([[5712],{9910:a=>{a.exports=JSON.parse('{"label":"sustainability","permalink":"/blog/tags/sustainability","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

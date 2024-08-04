@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhopage=self.webpackChunkhopage||[]).push([[2659],{9244:a=>{a.exports=JSON.parse('{"label":"bash","permalink":"/blog/tags/bash","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

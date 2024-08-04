@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhopage=self.webpackChunkhopage||[]).push([[4654],{7874:e=>{e.exports=JSON.parse('{"label":"certificate","permalink":"/blog/tags/certificate","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
